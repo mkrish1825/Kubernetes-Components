@@ -15,7 +15,7 @@ If OpenSSL is installed you will get a response showing the version. Otherwise, 
 sudo apt-get update
 
 sudo apt-get install openssl
-```
+``
 
 ## 2. Add a new Kubernetes user account
 
